@@ -1,11 +1,11 @@
 {
   "name": "000-desafio-mi-app",
   "version": "0.0.1",
-  "main": "index.js",
+  "main": "server.js",
   "type": "module",
   "scripts": {
-    "dev": "node --watch server.js",
-    "start": "nodemon server.js"
+    "dev": "nodemon server.js",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",

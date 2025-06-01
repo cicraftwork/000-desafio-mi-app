@@ -1,0 +1,20 @@
+[
+  {
+    "id": "2",
+    "titulo": "Música Ligera",
+    "artista": "Soda Estéreo",
+    "tono": "Dm"
+  },
+  {
+    "id": 4188,
+    "titulo": "albertio",
+    "artista": "Violeta Parra",
+    "tono": "Sm"
+  },
+  {
+    "id": 6869,
+    "titulo": "Juan Gabriel",
+    "artista": "Querida",
+    "tono": "rem"
+  }
+]
