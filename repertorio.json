@@ -1,11 +1,5 @@
 [
   {
-    "id": "2",
-    "titulo": "Música Ligera",
-    "artista": "Soda Estéreo",
-    "tono": "Dm"
-  },
-  {
     "id": 4188,
     "titulo": "albertio",
     "artista": "Violeta Parra",
@@ -16,11 +10,5 @@
     "titulo": "Juan Gabriel",
     "artista": "Querida",
     "tono": "rem"
-  },
-  {
-    "id": "8799",
-    "titulo": "prueba 3",
-    "artista": "prueba artista 3",
-    "tono": "dom3"
   }
 ]
